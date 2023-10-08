@@ -80,5 +80,9 @@ Your assignment will be graded based on correctness, completeness, code organiza
 
 **Note:** Remember to test your code thoroughly and ensure it runs without errors before submitting your assignment.
 
+Important: Fork this repository and commit your assignment code to your forked repository. Submit the URL to Evelyne after you are done with the assignment.
+
+
+
 ---
 Happy Coding! :smile:
